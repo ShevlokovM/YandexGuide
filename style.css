@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.main
+{
+    margin: 40px 40px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+.list1 li
+{
+    margin: 15px 0px;
+}
+
+.list2
+{
+    list-style-type: none;
+    padding: 0px;
+}
+
+.list2 li
+{
+    margin: 15px 0px;
+}
+
+a
+{
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: red;
+}
+
+.triangle
+{
+    width: 20px;
+    height: 20px;
+    min-width: 20px;
+    min-height: 20px;
+}
+
+.warning
+{
+    border: 1px solid #e7e7e7;
+    border-radius: 10px;
+    max-width: 700px;
+    padding: 20px;
+}
+/*
+@media (max-width: 700px)
+{
+    .warning
+    {
+        width: 75%;
+    }
+
+}
+
+@media (max-width: 600px)
+{
+    .warning
+    {
+        width: 90%;
+    }
+
+}*/
+
+.block
+{
+    margin-bottom: 40px;
+}
